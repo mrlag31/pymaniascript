@@ -121,3 +121,6 @@ The correct behaviour should always be the following: every script that compiles
 - You can declare functions with same signatures.
 
 Thus, please make an issue when you find uncited differences between this compiler and the game's one.
+
+## Special thanks
+The parser/lexer was built with [sly](https://github.com/dabeaz/sly). The parser/lexer used for the `doc.h` is [robotpy-cppheaderparser](https://github.com/robotpy/robotpy-cppheaderparser). Also special thanks to cgdb from the Nadeo team who helped understand the original compiler.
