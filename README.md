@@ -10,7 +10,7 @@ git clone "https://github.com/MrLag31/pymaniascript"
 ```
 - Finally, install this package inside of your python environment.
 ```
-pip install .
+pip install .\pymaniascript\
 ```
 
 ## Main content
